@@ -56,7 +56,7 @@ O jogo foi construído com uma arquitetura modular para garantir clareza e fáci
 └── xadrez/
 ├── PartidaDeXadrez.cs
 ├── Rei.cs
-├── Rainha.cs
+├── Dama.cs
 ├── Torre.cs
 ├── Bispo.cs
 ├── Cavalo.cs
